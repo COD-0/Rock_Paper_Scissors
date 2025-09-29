@@ -14,9 +14,9 @@ Rock_Paper_Scissors/
 
  ## 🌠 Features
 
--You can play as many rounds as you like.
--Calculates and display of user and computer score and at the end show you who won.
--Simple and easy-to-play.
+- You can play as many rounds as you like.
+- Calculates and display of user and computer score and at the end show you who won.
+- Simple and easy-to-play.
 
 ## ▶️ How to Run
 
