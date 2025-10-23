@@ -8,7 +8,7 @@ The game keeps track of your score and the computer's score untill you choose to
 
 ## 📂 Project Structure
 
-Rock_Paper_Scissors/
+Rock Paper Scissors/
  ├rock_paper_scissors.py   # Main game file
  └README.md      # Project documentation
 
